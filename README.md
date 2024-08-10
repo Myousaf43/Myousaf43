@@ -7,8 +7,11 @@ I am a Microsoft Certified Power Apps Developer. I love to automate things.
 🔭 I’m currently working on
    - Invoice Manager: A Power Apps Canvas App used to manage customer invoices
 🌱 I’m currently learning Power BI Custom Visuals using D3.js
+
 👯 I’m looking to collaborate on Power BI, Power Pages custom projects
+
 💬 Ask me about anything related to Power Platform (Power Apps, Power Automate, Power Pages, Power BI, Dataverse, Copilot Studio, Azure Open AI, SQL, Sharepoint, PowerShell)
+
 📫 Contact me
 Email: myousafm905@gmail.com
 Phone: +923406814497
