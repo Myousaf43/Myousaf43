@@ -1,12 +1,33 @@
-Hi, I’m @Myousaf43
-👀 I’m interested in Power Platform technologies and digital transformation.
-🌱 I’m currently learning Custom Power BI Visuals.
-💞️ I’m looking to collaborate on innovative Power Platform projects that enhance business processes.
-📫 Email: myousafm905@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I have delivered successful projects like the Benson Health model and Managed Cellular Services.
+# Muhammad Yousaf (Myousaf43)
 
-I am a Microsoft Certified Power Apps Developer with over 6 years of expertise in Power Platform technologies, including Power Apps, Power Pages, Power Automate, Power BI, Dataverse, and Azure. 
-Currently employed at TripleK Technologies since June 2018, I have delivered successful projects such as the Benson Health model, Managed Cellular Services, and various data management and AI-integrated applications. 
-My extensive experience allows me to design and develop innovative solutions that enhance business processes and drive digital transformation. 
-I specialize in creating custom applications that solve different business problems, making sure every project is efficient and effective.
+## Hi there 👋
+
+I am a Microsoft Certified Power Apps Developer. I love to automate things.
+
+🔭 I’m currently working on
+   - Invoice Manager: A Power Apps Canvas App used to manage customer invoices
+🌱 I’m currently learning Power BI Custom Visuals using D3.js
+👯 I’m looking to collaborate on Power BI, Power Pages custom projects
+💬 Ask me about anything related to Power Platform (Power Apps, Power Automate, Power Pages, Power BI, Dataverse, Copilot Studio, Azure Open AI, SQL, Sharepoint, PowerShell)
+📫 Contact me
+Email: myousafm905@gmail.com
+Phone: +923406814497
+[LinkedIn](https://www.linkedin.com/in/muhammad-yousaf-016207214/)
+
+⚡ Fun fact: I love learning new things
+
+## Skills
+**Languages**: Fx, Liquid, JS, HTML, CSS, XML, JSON, YAML, Markdown
+
+**Databases**: Dataverse, MySQL, SQL Server, 
+
+**Cloud**: Azure
+
+## Projects
+**SMCLegalAI**: An AI chatbot for chatting on legal documents, featuring a Power Apps Canvas Apps frontend and an Azure OpenAI and Python backend.
+
+**Kanban Board**: This Power Apps project revolutionizes task management with a Kanban board, enhancing team collaboration, productivity, and task tracking for seamless project success.
+
+**Benson Health**: The Benson Health model boasts a complex, secure database with tailored access for four user types, intricate user flows, and Power BI integration for insightful data visualization.
+
+**Managed Cellular Services**: Managed Cellular Services is a highly customized project utilizing JavaScript, Liquid, XML, and APIs to extend Power Pages capabilities, featuring intricate table relationships, auto-populating fields, and Power Automate flows for notifications and complex calculations.
